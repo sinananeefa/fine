@@ -1,0 +1,6 @@
+{
+  "name": "FinReview - AI-Native Financial Review",
+  "description": "AI-native financial review platform turning raw bank transactions into explainable monthly P&Ls, variance drivers, and traceable audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

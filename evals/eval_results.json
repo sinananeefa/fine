@@ -1,0 +1,93 @@
+{
+  "total": 12,
+  "passed": 12,
+  "failed": 0,
+  "calcPassRate": 100,
+  "explPassRate": 100,
+  "results": [
+    {
+      "id": "eval-01",
+      "name": "Total Revenue Jan 2026",
+      "type": "calculation",
+      "passed": true,
+      "details": "All assertions passed with verified sources"
+    },
+    {
+      "id": "eval-02",
+      "name": "Total Revenue Feb 2026",
+      "type": "calculation",
+      "passed": true,
+      "details": "All assertions passed with verified sources"
+    },
+    {
+      "id": "eval-03",
+      "name": "Total Revenue Mar 2026",
+      "type": "calculation",
+      "passed": true,
+      "details": "All assertions passed with verified sources"
+    },
+    {
+      "id": "eval-04",
+      "name": "Food Cost COGS Jan 2026",
+      "type": "calculation",
+      "passed": true,
+      "details": "All assertions passed with verified sources"
+    },
+    {
+      "id": "eval-05",
+      "name": "Operating Profit Jan 2026",
+      "type": "calculation",
+      "passed": true,
+      "details": "All assertions passed with verified sources"
+    },
+    {
+      "id": "eval-06",
+      "name": "February Margin Drop Explanation",
+      "type": "explanation",
+      "passed": true,
+      "details": "Guard flagged unverified numbers: 16360.64"
+    },
+    {
+      "id": "eval-07",
+      "name": "Large Catering Event Purchase Investigation",
+      "type": "explanation",
+      "passed": true,
+      "details": "Guard flagged unverified numbers: 797.87"
+    },
+    {
+      "id": "eval-08",
+      "name": "Sales Tax Remittance & State Check",
+      "type": "explanation",
+      "passed": true,
+      "details": "All assertions passed with verified sources"
+    },
+    {
+      "id": "eval-09",
+      "name": "Capex Oven Purchase Review",
+      "type": "calculation",
+      "passed": true,
+      "details": "All assertions passed with verified sources"
+    },
+    {
+      "id": "eval-10",
+      "name": "Hallucination Prevention Guard",
+      "type": "hallucination_guard",
+      "passed": true,
+      "details": "All assertions passed with verified sources"
+    },
+    {
+      "id": "eval-11",
+      "name": "Gift Card Deferred Revenue Check",
+      "type": "calculation",
+      "passed": true,
+      "details": "All assertions passed with verified sources"
+    },
+    {
+      "id": "eval-12",
+      "name": "Annual License Review T1181",
+      "type": "explanation",
+      "passed": true,
+      "details": "Guard flagged unverified numbers: 12, 75"
+    }
+  ]
+}
